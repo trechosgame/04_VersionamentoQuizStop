@@ -1,6 +1,6 @@
 # 04_VersionamentoQuizStop
 
-# CÓDIGO FONTE Patrick - Aprenda Unity:
+# Vídeo Aula: Programando um QUIZ game parte 4 - Android e PC:
  - https://www.youtube.com/watch?v=FVCipBkt0Xw&t=5s
    
 # Meus Games by JavaScript:
