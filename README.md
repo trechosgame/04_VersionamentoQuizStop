@@ -1,6 +1,6 @@
 # 04_VersionamentoQuizStop
 
-# CÓDIGO FONTE:
+# CÓDIGO FONTE Patrick - Aprenda Unity:
  - https://www.youtube.com/watch?v=FVCipBkt0Xw&t=5s
    
 # Meus Games by JavaScript:
